@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EasyTipCalculator" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#81c784</item>
+        <item name="colorPrimaryVariant">#519657</item>
+        <item name="colorOnPrimary">#616161</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#dcedc8</item>
+        <item name="colorSecondaryVariant">#aabb97</item>
+        <item name="colorOnSecondary">#616161</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
